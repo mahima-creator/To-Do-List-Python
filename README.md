@@ -22,7 +22,7 @@ This To-Do List is a simple Python console application that helps users manage t
 
 1. Download or clone the repository.
 2. Open the project in a Python IDE or editor.
-3. Run the `todo_list.py` file.
+3. Run the `To-Do_list.py` file.
 4. Choose an option from the menu.
 5. Add, view, or remove tasks as needed.
 
