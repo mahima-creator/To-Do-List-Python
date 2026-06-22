@@ -35,15 +35,10 @@ This To-Do List is a simple Python console application that helps users manage t
 2. View Tasks
 3. Remove Task
 4. Exit
-
 Enter your choice: 1
-
 Enter task: Complete Python assignment
-
 Task added successfully!
-
-------------------------
-
+-----------------------
 1. Complete Python assignment
 ```
 
@@ -55,8 +50,7 @@ To-Do-List/
 ├── To-Do-list.py
 ├── README.md
 ├── .gitignore
-├──To-Do-list-1.png
-└── To-Do-list-2.png
+└── To-Do-list-output.png
 ```
 
 ## Future Improvements
